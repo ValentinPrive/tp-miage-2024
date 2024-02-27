@@ -3,7 +3,7 @@
 ## Nom du(des) étudiant(e)(s) de ce monôme/binôme 
 WARNING: NE PAS OUBLIER DE MENTIONNER LES DEUX NOMS SI VOUS ETES EN BINOME!
 
-#Privé# (et #Rioux#)
+#Privé# et #Rioux#
 
 Commentaires éventuels des étudiants : #XXXXXX#
 
